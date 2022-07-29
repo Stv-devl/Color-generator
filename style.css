@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  color: rgb(247, 247, 247);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  z-index: 0;
+  transition: 1s linear;
+}
+
+h2 {
+  color: whitesmoke;
+  padding: 5px;
+}
