@@ -14,8 +14,8 @@ This is a solution for a color generator
 
 ### Links
 
-- Solution URL: [Github code]()
-- Live Site URL: [You can see here](/)
+- Solution URL: [Github code](https://github.com/Stv-devl/Color-generator)
+- Live Site URL: [You can see here](https://stv-devl.github.io/Color-generator/)
 
 ## My process
 
